@@ -1,5 +1,7 @@
 # Pixora
 
+Pixora is a game discovery app built with React Native + Expo using the RAWG API.
+
 ## What API did you use?
 I used the RAWG Video Games Database API as the main public API. RAWG provides a regularly updated catalog of games with metadata such as titles, genres, platforms, ratings, release dates, descriptions, screenshots, and trailers. The app fetches game lists, genres, screenshots, and trailer links from RAWG endpoints and presents them in an interactive way.
 
